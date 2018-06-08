@@ -114,7 +114,8 @@ body {
     font-family: 'Song Myung', serif; }
   .grid > img {
     position: absolute;
-    left: -250px; }
+    left: -250px;
+    z-index: -100}
   .grid .pics {
     margin-top: .4em;
     display: -webkit-box;
